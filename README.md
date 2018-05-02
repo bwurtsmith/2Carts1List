@@ -1,2 +1,2 @@
-# 2Carts1List
+# Share My Shopping
 Shareable shopping list responsive web app
